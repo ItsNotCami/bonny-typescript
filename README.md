@@ -72,6 +72,15 @@ npx ts-node bonny.ts
 
 ---
 
+## 🔗 Link utili
+
+| Risorsa    | Link                                             |
+| ---------- | ------------------------------------------------ |
+| 🐙 GitHub  | https://github.com/ItsNotCami/bonny-typescript   |
+| 🖊️ CodePen | https://codepen.io/rggxpfnb-the-bold/pen/vEXMWaL |
+
+---
+
 ## 💡 Scelte progettuali
 
 - **Interfacce TypeScript** per garantire la tipizzazione forte e la coerenza tra le classi
